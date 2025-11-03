@@ -26,11 +26,13 @@ We used **UMAP** for dimensionality reduction and **KMeans** for clustering to v
 4. **Visualization**
    - Plotted UMAP-reduced data points in 2D space.
    - Each point represents a ship, clustered based on performance.
+   -  ![UMAP Visualization](images/umap_performance.png)
+
 
 ---
 
 ## Results 
-**clusters formed** : 8
-**Silhouette Score** : 0.3494
-**Observation**: UMAP effectively separated the ships into visually distinct groups based on performance metrics
+- **clusters formed** : 8
+- **Silhouette Score** : 0.3494
+- **Observation**: UMAP effectively separated the ships into visually distinct groups based on performance metrics
 
